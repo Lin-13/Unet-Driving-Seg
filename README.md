@@ -14,9 +14,8 @@
 | ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
 | ![img](https://file+.vscode-resource.vscode-cdn.net/d%3A/Code/driving-seg/images/mIoU.png) | ![loss](https://file+.vscode-resource.vscode-cdn.net/d%3A/Code/driving-seg/images/loss.png) |
 
- epoch = 30 时，训练集IoU = 0.3。
+ epoch = 30 时，训练集平均IoU = 0.3。
 
-loss曲线：
 
 在个人录制视频*test.mp4* 中对神经网络进行部署并通过 **cv2** 将结果导出为视频
 
