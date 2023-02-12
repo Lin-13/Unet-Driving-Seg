@@ -1,0 +1,5 @@
+images/*
+*.npy
+*.pt
+*.zip
+option1_driving-segmentation/*
