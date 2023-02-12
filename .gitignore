@@ -1,4 +1,5 @@
-images/*
+images/*.mp4
+images/*.avi
 *.npy
 *.pt
 *.zip
