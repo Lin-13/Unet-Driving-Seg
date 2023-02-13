@@ -24,5 +24,5 @@ epoch = 30 时，训练集平均IoU = 0.3。
 
 |          col1          | col2                       |
 | :---------------------: | -------------------------- |
-| ![image](images/mix.png) | ![pictures2](images/mix.png) |
+| ![image](images/mix-0.png) | ![pictures2](images/mix.png) |
 | ![img](images/mix-45.png) | ![img](images/mix-47.png)    |
